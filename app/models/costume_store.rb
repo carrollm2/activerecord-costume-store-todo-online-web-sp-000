@@ -1,3 +1,3 @@
 # Create your CostumeStore class here
-class CostumeStoreStores < ActiveRecord::Base
+class CostumeStore < ActiveRecord::Base
 end
